@@ -1,0 +1,22 @@
+{
+  "name": "redux-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@alvinzzz:alvinlal/redux-tutorial.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immer": "^9.0.15",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6"
+  }
+}
